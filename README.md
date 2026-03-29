@@ -33,9 +33,7 @@ Identify optimal green corridors by combining environmental and logistics indica
 
 ## ⚙️ How to Run
 
-1. Go to: https://code.earthengine.google.com/
-2. Copy the content of `main.js`
-3. Run the script
+ Go to: https://spacehack-team100.projects.earthengine.app/view/isc-team100
 
 ## 🌱 Concept
 
