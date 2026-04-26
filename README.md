@@ -18,22 +18,10 @@ El sistema integra múltiples variables geoespaciales para evaluar tanto el impa
 ## 🖥️ Visualización del Dashboard
 
 <p align="center">
-  <img src="assets/2026-03-28 (1).png" width="90%">
+  <img src="Captura de pantalla 2026-04-26 140527.png" width="90%">
 </p>
 
 **Figura 1.** Dashboard interactivo desarrollado en Google Earth Engine.
-
----
-
-## 🌍 Análisis geoespacial
-
-<p align="center">
-  <img src="assets/Captura de pantalla 2026-04-26 140527.png" width="90%">
-</p>
-
-**Figura 2.** Visualización global de actividad logística y patrones espaciales.
-
----
 
 ## Objetivo
 
