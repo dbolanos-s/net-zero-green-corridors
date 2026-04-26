@@ -1,56 +1,65 @@
-# 🌍 Net-Zero Green Corridors Dashboard
+# Net-Zero Green Corridors Dashboard
 
-This project analyzes global logistics corridors using satellite data to support sustainable supply chain decisions.
-
-## 🚀 Overview
-
-The system integrates multiple geospatial variables:
-
-- NO2 → carbon emissions
-- VIIRS → logistics and economic activity
-- NDVI → ecological support
-- LST → thermal stress
-
-## 🎯 Objective
-
-Identify optimal green corridors by combining environmental and logistics indicators.
-
-## 🧠 Features
-
-- Interactive map (Google Earth Engine)
-- Click-based diagnosis
-- Time-series charts
-- Transport recommendation
-- Route optimization prototype
-- CSV export
-
-## 📊 Data Sources
-
-- Sentinel-5P (NO2)
-- VIIRS Nighttime Lights
-- MODIS NDVI
-- MODIS LST
-
-## ⚙️ How to Run
-
- Go to: https://spacehack-team100.projects.earthengine.app/view/isc-team100
-
-## 🌱 Concept
-
-The model does not optimize only distance but also:
-
-- carbon pressure
-- ecological impact
-- logistics connectivity
-- thermal conditions
-
-This allows building a **composite cost for net-zero logistics corridors**.
+Este proyecto analiza corredores logísticos a nivel global utilizando datos satelitales, con el objetivo de apoyar la toma de decisiones en cadenas de suministro sostenibles.
 
 ---
 
-## 👨‍💻 Author
-Hackathon Project – Net-Zero Supply Chain Track
-- Domenica Bolaños
-- Rafael Bolaños
-- Diego Ortiz
-  
+## Descripción general
+
+El sistema integra múltiples variables geoespaciales para evaluar tanto el impacto ambiental como la actividad logística:
+
+- **NO₂ (Sentinel-5P)** → emisiones de carbono  
+- **VIIRS Nighttime Lights** → actividad económica y logística  
+- **NDVI (MODIS)** → soporte ecológico y vegetación  
+- **LST (MODIS)** → estrés térmico superficial  
+
+---
+
+## 🖥️ Visualización del Dashboard
+
+<p align="center">
+  <img src="assets/2026-03-28 (1).png" width="90%">
+</p>
+
+**Figura 1.** Dashboard interactivo desarrollado en Google Earth Engine.
+
+---
+
+## 🌍 Análisis geoespacial
+
+<p align="center">
+  <img src="assets/Captura de pantalla 2026-04-26 140527.png" width="90%">
+</p>
+
+**Figura 2.** Visualización global de actividad logística y patrones espaciales.
+
+---
+
+## Objetivo
+
+Identificar corredores logísticos sostenibles mediante la combinación de indicadores ambientales y de conectividad.
+
+---
+
+## Funcionalidades
+
+- Mapa interactivo  
+- Diagnóstico por clic  
+- Series temporales  
+- Recomendación de transporte  
+- Optimización de rutas  
+- Exportación CSV  
+
+---
+
+## Ejecución
+
+https://spacehack-team100.projects.earthengine.app/view/isc-team100  
+
+---
+
+## Autor
+
+- Domenica Bolaños  
+- Rafael Bolaños  
+- Diego Ortiz  
